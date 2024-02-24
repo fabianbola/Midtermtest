@@ -1,0 +1,15 @@
+table{
+
+}
+
+table, td, th {
+    border: solid 2px #3399CC;
+    border-collapse: collapse;
+    padding: 0 0.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+tr:nth-of-type(odd){
+    background: #3399CC;
+}
